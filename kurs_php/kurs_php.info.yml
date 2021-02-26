@@ -1,0 +1,6 @@
+name: Boersenkurs-PHP Modul
+description: Creates a block directing to a page
+package: Custom
+
+type: module
+core: 8.x
