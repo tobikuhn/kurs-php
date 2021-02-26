@@ -26,7 +26,8 @@ class Link extends BlockBase {
       '#markup' => $t,
     ];
   }
-  
+  public function getCacheMaxAge() {
+        return 0;
+    }
 
 }
-
