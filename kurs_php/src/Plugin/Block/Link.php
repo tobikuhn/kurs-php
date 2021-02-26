@@ -5,12 +5,12 @@ namespace Drupal\kurs_php\Plugin\Block;
 use Drupal\Core\Block\BlockBase;
 
 /**
- * Provides a 'Hello' Block.
+ * Provides a 'Link' Block.
  *
  * @Block(
- *   id = "link",
+ *   id = "link_block",
  *   admin_label = @Translation("Link"),
- *   category = @Translation("Hello World"),
+ *   category = @Translation("Kurs"),
  * )
  */
 class Link extends BlockBase {
