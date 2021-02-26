@@ -26,5 +26,8 @@ class Kurs extends BlockBase {
 	'#markup' => $t,
 ];
   }
-}
 
+  public function getCacheMaxAge() {
+        return 0;
+    }
+}
