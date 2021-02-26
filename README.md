@@ -7,4 +7,4 @@ Das Modul muss in den modules Ordner im Drupal-Verzeichnis kopiert werden und ü
 Um den Block nutzen zu können muss er nur noch im Blocklayout hinzugefügt werden.
 
 
-TODO: info.yml und php dateien müssen hinzugefügt werden
+TODO: Caching deaktivieren 
